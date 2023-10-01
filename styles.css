@@ -5,11 +5,32 @@
 	border-radius: 40px;
 	height:200px;
 	width:500px;
+	text-align:center;
+	display:flex;
+	padding:50px;
 }
 
 .red{
 	height:50px;
-	width:100px;
+	width:50px;
+	background-color:green;
+	border-radius:50%;
+	text-align:center;
+}
+
+.yellow{
+	height:50px;
+	width:50px;
+	background-color:yellow;
+	border-radius:50%;
+	text-align:center;
+}
+
+.red{
+	height:50px;
+	width:50px;
 	background-color:red;
 	border-radius:50%;
+	text-align:center;
 }
+
